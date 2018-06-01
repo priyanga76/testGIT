@@ -1,7 +1,6 @@
 Name
 Age
 Sex
-Bug 1
 Address
 Bug 2
 PHN no.
