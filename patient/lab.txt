@@ -1,3 +1,2 @@
 test
 line
-bug3
